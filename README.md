@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajula-bhavya" alt="gajula-bhavya" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gajula bhavya" target="blank"><img src="https://img.shields.io/twitter/follow/gajula bhavya?logo=twitter&style=for-the-badge" alt="gajula bhavya" /></a> </p>
 
 - 🔭 I’m currently working on **website based applications**
 
@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/gajula bhavya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gajula bhavya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gajula bhavya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajula bhavya" height="30" width="40" /></a>
 </p>
 
@@ -30,4 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajula-bhavya&show_icons=true&locale=en" alt="gajula-bhavya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajula-bhavya&" alt="gajula-bhavya" /></p>
+
 
